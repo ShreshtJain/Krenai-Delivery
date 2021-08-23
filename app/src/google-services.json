@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "754800373048",
+    "firebase_url": "https://needs-market.firebaseio.com",
+    "project_id": "needs-market",
+    "storage_bucket": "needs-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754800373048:android:3b9687e76ffbd229ae25cd",
+        "android_client_info": {
+          "package_name": "com.needs_picker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754800373048-tu1l74tn49r6515bbms1ssgauhvlm47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2JD-5jVqhiZxPG6l4mb65CSroGWEvS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754800373048-tu1l74tn49r6515bbms1ssgauhvlm47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754800373048-912dg3qeeicdpk9qe3vuialtem14j279.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.needssupermarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754800373048:android:f605864a5980c791ae25cd",
+        "android_client_info": {
+          "package_name": "com.needssupermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754800373048-tu1l74tn49r6515bbms1ssgauhvlm47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2JD-5jVqhiZxPG6l4mb65CSroGWEvS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754800373048-tu1l74tn49r6515bbms1ssgauhvlm47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754800373048-912dg3qeeicdpk9qe3vuialtem14j279.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.needssupermarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

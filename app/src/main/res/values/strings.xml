@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">KRENAI DELIVERY</string>
+    <string name="title_home">HOME</string>
+    <string name="title_dashboard">TASK</string>
+    <string name="title_sites">SITES</string>
+    <string name="title_siteshot">SITESHOT</string>
+    <string name="title_notifications">ACCOUNT</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_test">Map</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Registration -->
+    <string name="stringEditTextHeadingFullName">Full Name</string>
+    <string name="stringEditTextDescriptionFullName">Enter your Full Name</string>
+    <string name="stringEditTextHeadingPhoneNumber">Phone Number</string>
+    <string name="stringEditTextDescriptionPhoneNumber">Active contact number</string>
+    <string name="stringEditTextHeadingPassword">Password</string>
+    <string name="stringEditTextDescriptionPassword">Minimum 8 digit required</string>
+    <string name="stringEditTextHeadingAddressFirst">Address Line First</string>
+    <string name="stringEditTextHeadingAddressSecond">Address Line Second</string>
+    <string name="stringEditTextDescriptionAddress">Current residential address</string>
+    <string name="stringEditTextHeadingCityTown">City</string>
+    <string name="stringEditTextDescriptionCityTown">Current City / Town / Village</string>
+    <string name="stringEditTextHeadingState">State</string>
+    <string name="stringEditTextDescriptionState">Current State</string>
+    <string name="stringEditTextHintPhoto">Photo</string>
+    <string name="stringEditTextHintDrivingLicense">Driving License</string>
+    <string name="stringEditTextHeadingCode">Password</string>
+    <string name="stringEditTextDescriptionCode">Enter Password</string>
+    <string name="stringEditTextDescriptionNewCode">Enter New Password</string>
+    <string name="stringEditTextHeadingPinCode">Pin Code</string>
+    <string name="stringEditTextDescriptionPinCode">Enter Pin Code</string>
+    <string name="stringEditTextHeadingPhoto">Photo</string>
+    <string name="stringEditTextDescriptionPhoto">Uploaded Latest Image</string>
+    <string name="stringEditTextHeadingDrivingLicense">Driving License</string>
+    <string name="stringEditTextDescriptionDrivingLicense">Upload Driving License</string>
+    <string name="stringTextViewTagPersonalDetails">Personal Details</string>
+    <string name="stringTextViewTagAddressDetails">Address Details</string>
+    <string name="stringEditTextDescriptionDrivingLice">Upload Driving License</string>
+    <string name="stringTextViewLogin">Already have an account?</string>
+    <string name="buttonSubmit">Submit</string>
+    <!-- TODO: Register Error Messages -->
+    <string name="errorMessageName">Full Name is Required.</string>
+    <string name="errorMessagePhone">Enter Valid Phone Number.</string>
+    <string name="errorMessageUsername">Enter Valid Username.</string>
+    <string name="errorMessageSafeCode">Enter Valid Password.</string>
+    <string name="errorMessageAddressLineOne">Enter Valid Address.</string>
+    <string name="errorMessageAddressLineTwo">Enter Valid Address.</string>
+    <string name="errorMessageCity">Enter Valid City Name.</string>
+    <string name="errorMessageState">Enter Valid State.</string>
+    <string name="errorMessagePinCode">Enter Valid Pin Code.</string>
+
+    <!-- TODO: Login -->
+    <string name="stringActivityLoginHeading">Login</string>
+    <string name="stringActivityLoginSubHeading">Login with registered username</string>
+    <string name="stringEditTextLoginPhoneNumber">Registered username</string>
+    <string name="buttonLoginSubmit">Login</string>
+    <!-- TODO: Forgot password -->
+    <string name="stringActivityForgotPasswordHeading">Forgot Password</string>
+    <string name="stringActivityForgotPasswordSubHeading">Update with registered phone number</string>
+    <string name="stringEditTextForgotPasswordPhoneNumber">Registered contact number</string>
+    <string name="buttonVerifySubmit">Verify</string>
+    <string name="stringForgotPasswordHeading">Password Updated</string>
+    <string name="stringForgotPasswordMessage">Password is updated successfully. Now you can access your account with new password</string>
+
+    <!-- TODO: Doc Uplaod -->
+    <string name="stringActivityDocUploadHeading">Upload Document</string>
+    <string name="stringActivityDocUploadSubHeading">Upload latest document</string>
+
+    <!-- HomeSiteManager -->
+    <string name="stringSiteShotHeading">Media Site Location</string>
+    <string name="stringNearBySiteShot">SiteShot Request</string>
+    <string name="stringTakePicture">Take SiteShot</string>
+    <string name="stringAcceptTask">Accept</string>
+    <string name="stringRejectTask">Reject</string>
+    <string name="stringFrameWarning">Take picture inside the frame</string>
+    <string name="stringTrackLocation">Tracking</string>
+    <string name="stringTakeSiteShot">Capture</string>
+    <string name="stringSubmitQuery">Submit Query</string>
+
+    <!-- One Time Password -->
+    <string name="stringOneTimePasswordShotHeading">Verification</string>
+    <string name="stringActivityOneTimePasswordSubHeading">We have sent you an access code
+via SMS for Mobile number Verification</string>
+    <string name="stringEnterYourCode">Enter One Time Password</string>
+    <string name="stringOneTimePassword">OTP</string>
+    <string name="stringResendOtp">Resend Otp</string>
+    <string name="stringAccountVerifiedHeading">Account Confirmed</string>
+    <string name="stringAccountVerifiedDetails">Welcome to SuperCook app. your account is created successfully. Our team will review your account and verify within 24 hour</string>
+
+    <!--HomeSiteManager Fragment-->
+    <string name="stringNoSiteAvailable">No sites available to take siteshot. You can change the location to find nearby siteshot</string>
+
+    <!-- Location Api -->
+    <string name="unknown_location">Unknown Location</string>
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location reported</item>
+        <item quantity="one">One location reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="stringEditTextAddSiteName">Name</string>
+    <string name="stringEditTextAddSiteNameInput">Enter Site Name</string>
+    <string name="stringEditTextSiteLocation">Location</string>
+    <string name="stringEditTextSiteLocationHint">Loading Location</string>
+    <string name="stringEditTextSiteImages">Images</string>
+    <string name="stringEditTextSiteImagesSubHeading">Upload clear picture blurred image is not acceptable</string>
+    <string name="title_activity_update_location">UpdateLocation</string>
+
+    <string name="stringEditTextAddSiteDisplayType">Display Type</string>
+    <string name="stringEditTextAddSiteDisplayTypeInput">Select Display Type</string>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_site_manager_active">SiteManagerActivity</string>
+    <string name="title_activity_site_manager_hold">HOLD</string>
+    <string name="description_activity_site_manager_hold">All the hold sites listed below</string>
+
+    <string name="title_activity_site_manager_all">LIVE</string>
+    <string name="description_activity_site_manager_all">All the Live sites listed below</string>
+
+    <string name="title_activity_site_manager_draft">DRAFT</string>
+    <string name="description_activity_site_manager_draft">All the draft sites listed below</string>
+
+    <string name="title_activity_site_manager_saved">SAVED</string>
+    <string name="description_activity_site_manager_saved">All the saved sites listed below</string>
+    <string name="title_activity_site_detail">SiteDetailActivity</string>
+
+    <string name="stringUpdateSite">Update Site</string>
+    <string name="stringUpdateSiteMessage">Update location and image. Now you can access this site in live section</string>
+    <string name="stringUpdateMarket">DELIVERY ACTION</string>
+
+    <string name="stringEmptyHoldList">Nothing On Hold</string>
+    <string name="stringEmptyHoldListMessage">Update location and image. Now you can access this site in live section</string>
+
+    <string name="stringEmptyLiveList">Empty Task List</string>
+    <string name="stringEmptyLiveListMessage">There is no orders available</string>
+
+    <string name="stringDraftLiveList">Empty Draft Sites</string>
+    <string name="stringEmptyDraftListMessage">Update location and image. Now you can access this site in live section</string>
+
+    <string name="stringBookmarkLiveList">Empty Bookmark Sites</string>
+    <string name="stringEmptyBookmarkListMessage">Update location and image. Now you can access this site in live section</string>
+    <string name="title_activity_site_reservation">SiteReservation</string>
+
+    <string name="stringReservationButton">Update To Hold</string>
+    <string name="stringReservationHeading">Mark it Hold</string>
+    <string name="stringReservationMessage">Mark it Hold,Mark it Hold,Mark it Hold,Mark it Hold,Mark it Hold</string>
+    <string name="title_activity_date_range">DateRange</string>
+    <string name="stringActivityBrandHeading">Brand Name</string>
+    <string name="stringActivityBrandPlaceholder">Enter Brand Name</string>
+    <string name="stringActivityCommentHeading">Comment</string>
+    <string name="stringActivityCommentPlaceholder">Enter Comment</string>
+</resources>

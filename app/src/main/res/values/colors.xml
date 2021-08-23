@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#f30</color>
+
+    <color name="themeColorDark">#000000</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondry">#555555</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="windowBackground">#F1F1F1</color>
+    <color name="windowBackgroundDark">#8e8e8e</color>
+    <color name="actionButton">#FF5722</color>
+    <color name="colorRipper">#b1b1b1</color>
+    <color name="green">#4CAF50</color>
+    <color name="dark_green">#8BC34A</color>
+    <color name="blue">#448AFF</color>
+
+</resources>
